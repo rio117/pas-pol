@@ -1,0 +1,27 @@
+@charset "utf-8";
+body{
+    font-size: 100%;
+    font-family: "Helvetica Neue", Helvetica, Arial, 游ゴシック, YuGothic, "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", メイリオ, Meiryo, sans-serif;
+}
+img{
+    width: 100%;
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+h1.section-title{
+    font-size: 2.14rem;
+    padding-bottom: 17px;
+    font-weight: 400;
+}
+button{
+    width: 162px;
+    height: 46px;
+}
+/*-------------------------------------------------------------
+header
+-------------------------------------------------------------*/
+
